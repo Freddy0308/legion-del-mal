@@ -6,3 +6,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt bibendu
 
 - Doctor octopus
 - Green Goblin
+
+## Familiares
+
+- Tía May
+- Tío Ben
+
+## Películas
+
+- Spiderman
+- Spiderman 2
+- Spiderman 3
